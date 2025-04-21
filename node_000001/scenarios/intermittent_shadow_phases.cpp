@@ -1,6 +1,6 @@
 // node_000001/scenarios/intermittent_shadow_phase.cpp
 // Project SOLIS -- Scenario 02: Orbital Eclipse / Shadow Phase Simulation
-
+// 
 #include <iostream>
 #include <vector>
 #include <cmath>
